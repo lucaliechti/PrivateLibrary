@@ -1,3 +1,4 @@
 target/*
 .idea/*
 *.iml
+private-library-frontend/node_modules

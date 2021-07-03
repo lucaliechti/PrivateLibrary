@@ -5,6 +5,7 @@
     <modules>
         <module>private-library-application</module>
         <module>private-library-domain</module>
+        <module>private-library-frontend</module>
         <module>private-library-persistence</module>
     </modules>
 
